@@ -53,10 +53,12 @@ Penjelasan fitur/kolom dalam dataset:
 **Exploratory Data Analysis**
 
 - Visualisasi distribusi rating
+
 ![Visualisasi Distribusi Rating](https://i.imgur.com/WlMgsDI.png)
 Visualisasi distribusi rating menunjukkan bahwa sebagian besar pengguna memberikan rating antara 3 dan 4. Ini mengindikasikan bahwa pengguna cenderung memberikan penilaian yang netral hingga positif terhadap film yang mereka tonton. Distribusi ini juga menunjukkan bahwa rating ekstrem (1 atau 5) relatif lebih jarang diberikan, yang bisa mengindikasikan kecenderungan pengguna untuk menghindari penilaian sangat rendah atau sangat tinggi.
 
 - Visualisasi top 10 film
+
 ![Visualisasi top 10 film](https://i.imgur.com/NVafLjW.png)
 Top 10 film dengan jumlah rating terbanyak juga ditampilkan dalam bentuk visualisasi bar chart. Film-film tersebut  merupakan film populer atau klasik yang dikenal luas oleh pengguna, sehingga lebih banyak mendapat perhatian dan dinilai oleh banyak orang. Hal ini bisa memengaruhi sistem rekomendasi karena film dengan jumlah rating lebih banyak memiliki peluang lebih tinggi untuk direkomendasikan, terutama dalam pendekatan berbasis *popularity* atau collaborative filtering.
 
